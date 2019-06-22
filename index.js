@@ -5,7 +5,7 @@ const program = require('commander');
 const chalk = require('chalk');
 const path = require('path');
 const fs = require('fs-extra');
-console.log(process.argv);
+//console.log(process.argv);
 program
     .command('page <pageName>')
     .action((pageName, options) => {

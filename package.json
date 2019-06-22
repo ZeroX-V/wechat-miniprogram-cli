@@ -1,6 +1,6 @@
 {
   "name": "wechat-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,6 @@
   "dependencies": {
     "chalk": "^2.4.1",
     "commander": "^2.19.0",
-    "cross-spawn": "^6.0.5",
     "fs-extra": "^7.0.1"
   },
   "repository": {

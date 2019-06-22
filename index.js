@@ -2,7 +2,6 @@
 
 'use strict';
 const program = require('commander');
-const spawn = require('cross-spawn');
 const chalk = require('chalk');
 const path = require('path');
 const fs = require('fs-extra');

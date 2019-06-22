@@ -1,0 +1,25 @@
+{
+  "name": "wechat-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "wechat": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0",
+    "cross-spawn": "^6.0.5",
+    "fs-extra": "^7.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zerox-v/wechat-miniprogram-cli.git"
+  }
+}
